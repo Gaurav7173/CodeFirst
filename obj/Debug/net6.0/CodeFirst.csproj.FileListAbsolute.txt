@@ -1,0 +1,143 @@
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/appsettings.Development.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/appsettings.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst.staticwebassets.runtime.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst.staticwebassets.endpoints.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst.deps.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst.runtimeconfig.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/CodeFirst.pdb
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Humanizer.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.csproj.AssemblyReference.cache
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.AssemblyInfoInputs.cache
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.AssemblyInfo.cs
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.csproj.CoreCompileInputs.cache
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.MvcApplicationPartsAssemblyInfo.cache
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.RazorAssemblyInfo.cache
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.RazorAssemblyInfo.cs
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.sourcelink.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/scopedcss/bundle/CodeFirst.styles.css
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/scopedcss/projectbundle/CodeFirst.bundle.scp.css
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets.build.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets.development.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.CodeFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.build.CodeFirst.props
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CodeFirst.props
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CodeFirst.props
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.csproj.Up2Date
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/refint/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.pdb
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/CodeFirst.genruntimeconfig.cache
+/Users/gauravkumar/Documents/Programentor/39_Alone 1 2/CodeFirst/obj/Debug/net6.0/ref/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/appsettings.Development.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/appsettings.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst.staticwebassets.endpoints.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst.staticwebassets.runtime.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst.deps.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst.runtimeconfig.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/CodeFirst.pdb
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Humanizer.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/browser-wasm/nativeassets/net6.0/e_sqlite3.a
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.csproj.AssemblyReference.cache
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.AssemblyInfoInputs.cache
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.AssemblyInfo.cs
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.csproj.CoreCompileInputs.cache
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.MvcApplicationPartsAssemblyInfo.cache
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.RazorAssemblyInfo.cache
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.RazorAssemblyInfo.cs
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/scopedcss/bundle/CodeFirst.styles.css
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/scopedcss/projectbundle/CodeFirst.bundle.scp.css
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets.build.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets.development.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets.build.endpoints.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.CodeFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.build.CodeFirst.props
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.CodeFirst.props
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.CodeFirst.props
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.csproj.Up2Date
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/refint/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.pdb
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.genruntimeconfig.cache
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/ref/CodeFirst.dll
