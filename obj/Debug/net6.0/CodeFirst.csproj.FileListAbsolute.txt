@@ -141,3 +141,4 @@
 /Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.pdb
 /Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.genruntimeconfig.cache
 /Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/ref/CodeFirst.dll
+/Users/gauravkumar/Documents/Programentor/41-CRUD application code first/CodeFirst/obj/Debug/net6.0/CodeFirst.sourcelink.json

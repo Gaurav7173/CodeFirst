@@ -10,7 +10,34 @@
     <a asp-action="Create" class="btn btn-primary">Create New</a>
 </p>
 
-<table class="table table-bordered table-striped">
+@{
+    if(TempData["Insert_Success"] != null)
+{
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["Insert_Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+}
+
+if(TempData["update_Success"] != null)
+{
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["update_Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+}
+if(TempData["delete_Success"] != null)
+{
+            <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Success!</strong> @TempData["delete_Success"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+}
+
+}
+
+
+<table class="table table-bordered table-dark table-hover table-striped">
     <thead>
         <tr>
             <th>@Html.DisplayNameFor(model => model.Id)</th>
